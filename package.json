@@ -1,6 +1,6 @@
 {
   "name": "walkfs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Walk directories recursively",
   "main": "index.js",
   "repository": {
